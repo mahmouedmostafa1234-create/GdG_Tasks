@@ -1,0 +1,39 @@
+h1 {
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+.box {
+    background-color: gray;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#main {
+    color: green;
+}
+
+.Hobbies{
+    color: orange;
+    font-weight: bold;
+}
+
+#unique {
+    color: purple;
+    font-size: 20px;
+}
+
+.hex {
+    color: #ff5733;
+}
+
+.rgb {
+    color: rgb(0, 128, 255);
+}
+
+.rgba {
+    color: rgba(255, 0, 0, 0.5);
+}
